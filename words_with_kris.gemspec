@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["kris.m.gray@gmail.com"]
 
   spec.summary       = "this is a practice Gem"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/krismgray/open_source_practice"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
